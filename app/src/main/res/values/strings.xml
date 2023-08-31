@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string name="text_1">Ingrese el primer texto</string>
+    <string name="text_2">Ingrese el segundo texto</string>
+    <string name="compare_button">Comparar</string>
+    <string name="comparison_result">Haz la comparación</string>
+</resources>
